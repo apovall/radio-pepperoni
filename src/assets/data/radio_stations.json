@@ -1,0 +1,37 @@
+[
+  {
+    "name": "National Radio",
+    "stream": "",
+    "hls": "https://radionz.streamguys1.com/national/national/national/national-mainstream/chunks.m3u8"
+  },
+  {
+    "name": "Jacaranda FM",
+    "stream": "https://iframe.iono.fm/playlists/prov/155?limit=1&sort=latest&skip=0",
+    "hls": ""
+  },
+  {
+    "name": "Bosveld Radio",
+    "stream": "https://digitalstreams3.mediaworks.nz/anthemz-CHC-high",
+    "hls": ""
+  },
+  {
+    "name": "The Cheese",
+    "stream": "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
+    "hls": ""
+  },
+  {
+    "name": "Asia DR - Japan Hits",
+    "stream": "https://cast1.torontocast.com:2120/stream/1/",
+    "hls": ""
+  },
+  {
+    "name": "Dance UK",
+    "stream": "https://dancestream.danceradiouk.com/stream/1/",
+    "hls": ""
+  },
+  {
+    "name": "Megaton Cafe Radio",
+    "stream": "https://us2.internet-radio.com/proxy/megatoncafe?mp=/stream",
+    "hls": ""
+  }
+]
